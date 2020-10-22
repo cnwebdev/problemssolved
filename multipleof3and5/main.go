@@ -1,6 +1,6 @@
 /*************************************************************************************************
-* If we list all the nautual number below 10 that are multiples of 3 and 5, we get 3, 5, 6, and 9.package main
-* the sume of these multiples is 23
+ * If we list all the nautual number below 10 that are multiples of 3 and 5, we get 3, 5, 6, and 9.
+ * the sume of these multiples is 23
  */
 
 package main
